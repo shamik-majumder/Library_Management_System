@@ -5,20 +5,20 @@ The Library Management System is a web-based application designed to streamline 
 
 **Key Objectives :**
 
-Centralized Database: Store all book, author, and member information in a secure, structured SQL database.
+* Centralized Database: Store all book, author, and member information in a secure, structured SQL database.
 
-Automated Lending: Track which member has borrowed which book and automatically calculate return dates.
+* Automated Lending: Track which member has borrowed which book and automatically calculate return dates.
 
-User Management: Separate interfaces or functionalities for Admins (to add/edit books) and Users (to browse and check status).
+* User Management: Separate interfaces or functionalities for Admins (to add/edit books) and Users (to browse and check status).
 
-Real-time Availability: Instantly see if a book is "Available" or "Issued" without manual record-checking.
+* Real-time Availability: Instantly see if a book is "Available" or "Issued" without manual record-checking.
 
 **Technical Overview :**
 
 This system leverages a classic LAMP/WAMP stack:
 
-Frontend: HTML5, CSS3, and JavaScript for a responsive user interface.
+**Frontend:** HTML5, CSS3, and JavaScript for a responsive user interface.
 
-Backend: PHP for server-side logic and database communication.
+**Backend:** PHP for server-side logic and database communication.
 
-Database: MySQL for robust data persistence.
+**Database:** MySQL for robust data persistence.
